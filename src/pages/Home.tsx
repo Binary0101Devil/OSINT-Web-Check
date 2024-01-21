@@ -182,14 +182,14 @@ const Home = (): JSX.Element => {
           </ul>
         </div>
         <div className="links">
-          <a href="https://github.com/lissy93/web-check" title="Check out the source code and documentation on GitHub, and get support or contribute">
+          <a href="https://github.com/Binary0101Devil" title="Check out On Github">
             <Button>View on GitHub</Button>
           </a>
-          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check" title="Deploy your own private or public instance of Web-Check to Netlify">
-            <Button>Deploy your own</Button>
+          <a href="https://www.linkedin.com/in/aniket-tomar-1a735b232/" title="Check out On Linkdin">
+            <Button>View on Linkdin</Button>
           </a>
-          <a href="/about#api-documentation" title="View the API documentation, to use Web-Check programmatically">
-            <Button>API Docs</Button>
+          <a href="https://twitter.com/AniketTomar1161" title="Check out On Twitter">
+            <Button>View on Twitter</Button>
           </a>
         </div>
       </SiteFeaturesWrapper>
